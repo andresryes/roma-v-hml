@@ -68,6 +68,9 @@ python app/evaluation_3d.py
 ```
 
 ### Docker-based Usage
+
+After adding the data into the folder:
+
 ```bash
 # For image stitching
 docker run -v "$(pwd)/data:/app/data" -v "$(pwd)/output:/app/output" evaluator image
