@@ -91,6 +91,7 @@ python analytics/analyze_hpatches_detailed.py
 # For 3D reconstruction
 python analytics/analyze_3d.py
 
+```
 
 ## Output
 Results will be saved in the `output` directory, organized by dataset name and evaluation type. There are also plots from the analytics of performance.
