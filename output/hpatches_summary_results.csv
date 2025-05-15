@@ -1,0 +1,3 @@
+matcher,avg_reproj_err_overall,total_unique_sequences,total_pairs_processed,total_pairs_failed_matching,total_pairs_failed_homography,total_processing_time_s,avg_time_per_pair_s
+RoMA,5.910450104919487,116,580,0,0,2686.0232696533203,4.6310746028505525
+HomoMatcherLite,129.0559687565913,116,580,15,0,1301.7953839302063,2.244474799879666

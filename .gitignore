@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Datasets
+hpatches*/
+eth3d*/
+
 # C extensions
 *.so
 
